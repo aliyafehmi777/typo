@@ -30,7 +30,7 @@ body{
     padding: 1rem .5rem;
     text-decoration: none;
     color: #afa7a7;
-    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     font-size: 1rem;
     letter-spacing: .8PX;
@@ -54,7 +54,7 @@ body{
     font-size: 1.3rem;
     padding: 0;
     margin: 1rem 0 0 6rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
  #container .container-wrapper .heading > h2 span{
     text-transform: capitalize;
